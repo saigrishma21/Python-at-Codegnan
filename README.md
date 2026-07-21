@@ -147,7 +147,7 @@ By completing these exercises, I gained practical experience in:
 
 **Bobbala Ramannagari Sai Grishma**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/greeshma-reddy
+- 💼 LinkedIn: https://www.linkedin.com/in/saigrishma
 - 💻 GitHub: https://github.com/saigrishma21
 
 ---
